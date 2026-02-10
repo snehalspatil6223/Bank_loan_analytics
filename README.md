@@ -40,3 +40,10 @@ This dashboard helps financial institutions to:
 - Optimize loan approval strategies
 - Enhance business decision making
 
+## 📂 Project Files
+**Bank Loan Analysis Dashboard**
+**Excel dashboard:**- https://docs.google.com/spreadsheets/d/1SLSwPDkrRMnr5V1kxsZX6_6AoweRI7R2/edit?usp=drive_link&ouid=107989852559736451112&rtpof=true&sd=true
+**powerBi dashboard**- https://drive.google.com/file/d/1Jw1EwVmxVjbIBXRkXtlc7QoLf3Jz-SuI/view?usp=drive_link
+**Tableau dashboard** -https://drive.google.com/file/d/1WBhgnqY4MXyzxGqgu_vKpbOUkcYXKXQi/view?usp=drive_link
+**SQL file**- https://drive.google.com/file/d/1ZTxiKlaA409Bz6iH5qcnGOCbwVu-JM6O/view?usp=drive_linkbank 
+**Bank Loan analytics PPT**- https://docs.google.com/presentation/d/1na00OPZ94aDY_vz3hnOCvxOpCQ91dOB2/edit?usp=drive_link&ouid=107989852559736451112&rtpof=true&sd=true
